@@ -1,0 +1,4 @@
+com\ben\common\domain\User.class
+com\ben\common\service\IUserService.class
+com\ben\common\domain\Product.class
+com\ben\common\service\IProductService.class
